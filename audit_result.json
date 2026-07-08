@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-07-08T15:02:01.627676",
+  "same_tier_accounts": 6,
+  "same_tier_videos": 192,
+  "total_with_kmt": 308,
+  "html_verified": true,
+  "blockers_resolved": {
+    "1_same_tier_count": "5→6 fixed",
+    "2_attract_max_autopsy": "≤6分=2条<10,诚实开关不通过,已删并记录",
+    "3_sources_verified": "vmi_tier S级+raw_beauty数据源已确认"
+  }
+}
